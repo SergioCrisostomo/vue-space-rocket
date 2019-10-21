@@ -1,4 +1,11 @@
-# rocket
+#  Vue space rocket
+
+This is a game in JavaScript I am building with my kids :)  
+Welcome to join if you want :) 
+
+## Demo
+
+You can find a [demo here in Gihub pages](https://sergiocrisostomo.github.io/vue-space-rocket/).
 
 ## Project setup
 ```
